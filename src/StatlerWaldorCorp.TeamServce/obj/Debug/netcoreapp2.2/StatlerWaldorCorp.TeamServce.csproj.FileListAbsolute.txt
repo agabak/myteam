@@ -1,0 +1,14 @@
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/bin/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.deps.json
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/bin/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.runtimeconfig.json
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/bin/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.runtimeconfig.dev.json
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/bin/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.dll
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/bin/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.pdb
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.csprojAssemblyReference.cache
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.csproj.CoreCompileInputs.cache
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.RazorAssemblyInfo.cache
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.RazorAssemblyInfo.cs
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.AssemblyInfoInputs.cache
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.AssemblyInfo.cs
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.RazorTargetAssemblyInfo.cache
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.dll
+/home/agabak/Desktop/projects/myteam/src/StatlerWaldorCorp.TeamServce/obj/Debug/netcoreapp2.2/StatlerWaldorCorp.TeamServce.pdb
